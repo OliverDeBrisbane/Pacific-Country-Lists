@@ -5,4 +5,4 @@ This repository contains a list of countries in Pacific languages. There are als
 Ce référentiel contient une liste de pays dans les langues du Pacifique. Il existe également des listes en anglais et en français.
 
 Currently, we have lists in English, French, Tongan, Indonesian, Javanese and Sundanese. We will soon have lists in Hawaiian, Māori, Samoan and other Pacific languages.
-Actuellement, nous avons des listes en anglais, français, tonguien, indonésien, javanais et sundanais. Nous aurons bientôt des listes en hawaïen, en maori, en samoan et dans d'autres langues du Pacifique.
+Actuellement, nous avons des listes en anglais, français, tonguien, et indonésien. Nous aurons bientôt des listes en hawaïen, maori, javanais, sundanais, samoan et dans d'autres langues du Pacifique.
