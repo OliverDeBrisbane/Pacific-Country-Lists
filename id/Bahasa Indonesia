@@ -1,4 +1,4 @@
-AC: Pulau Ascension
+    AC: Pulau Ascension
     AD: Andorra
     AE: Uni Emirat Arab
     AF: Afganistan
@@ -171,7 +171,7 @@ AC: Pulau Ascension
     NG: Nigeria
     NI: Nikaragua
     NL: Belanda
-    'NO': Norwegia
+    NO: Norwegia
     NP: Nepal
     NR: Nauru
     NU: Niue
